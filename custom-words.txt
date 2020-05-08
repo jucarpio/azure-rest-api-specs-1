@@ -290,6 +290,7 @@ cntk
 CODEGEN
 codegeneration
 codemirror
+codepackage
 cognitiveservices
 colls
 colocation
@@ -521,6 +522,7 @@ exportstatus
 externaldatasources
 externalDNSIPAddress01
 externalDNSIPAddress02
+extranet
 EYWQ
 faceapi
 facelists
@@ -593,6 +595,7 @@ getprivatelinkresources
 getsas
 getskus
 getssotoken
+gettestresultfile
 getvpnclientipsecparameters
 getvpnprofilepackageurl
 gibibytes
@@ -759,9 +762,11 @@ Kiswahili
 Knowledgebase
 knowledgebases
 koelner
+Kölner
 koreacentral
 koreasouth
 Kpis
+Kraaij
 Ksettings
 kstem
 kube
@@ -1080,6 +1085,7 @@ pixelated
 pkcs
 playready
 Plex
+Pohlmann
 policyassignments
 policydefinitions
 policyinsights
@@ -1162,6 +1168,7 @@ RAGRS
 RAGZRS
 randint
 Rankable
+ratelimit
 ravbhatnagar
 rawxml
 rbac
@@ -1509,7 +1516,9 @@ testall
 testallroutes
 testnew
 testnewroute
+testresultfile
 textanalytics
+TFIDF
 Tful
 Tfvc
 timeframe
@@ -1694,6 +1703,7 @@ websearch
 webservices
 Webspace
 webtest
+webtestresult
 webtests
 westcentralus
 westeurope
@@ -1747,3 +1757,10 @@ cloudManifestFiles
 highestcriticalimpact
 apiserver
 kubeadmin
+AzureAD
+PrivateLink
+privateLinkForAzureAd
+userprincipalname
+sessionstate
+sessionhosts
+hostpool
